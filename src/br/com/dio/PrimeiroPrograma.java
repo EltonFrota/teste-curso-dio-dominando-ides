@@ -19,5 +19,4 @@ public class PrimeiroPrograma {
 		// O atalho sysout Ctrl+barra de espaço, para System.out.println();
 		System.out.println(gato);
 	}
-
 }
